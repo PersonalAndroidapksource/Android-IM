@@ -20,6 +20,7 @@ import at.vcity.androidim.interfaces.ISocketOperator;
 
 public class SocketOperator implements ISocketOperator
 {
+	//192.168.1.103修改成你的电脑的IP地址。
 	private static final String AUTHENTICATION_SERVER_ADDRESS = "http://192.168.1.103/android-im/"; //TODO change to your WebAPI Address
 	
 	private int listeningPort = 0;
