@@ -25,4 +25,4 @@ $dbPassword = "123456";//数据库密码
 $dbName = "androidim";//数据库的名字
 4. 用android studio打开项目后，修改SocketOperator.java中AUTHENTICATION_SERVER_ADDRESS = "http://192.168.1.103/android-im/"; //192.168.1.103修改成服务器的IP地址。至此客户端也配置完成，就可以运行了。
 
-##### *注意：关于该代码的使用发生的一切纠纷，于本人无关，多谢！*
+###### *注意：关于该代码的使用发生的一切纠纷，于本人无关，多谢！*
