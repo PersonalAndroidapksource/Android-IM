@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:1:1-55:12
+	package
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:7:2-75
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:7:19-73
+application
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:9:5-52:15
+	android:label
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:13:9-40
+activity#at.vcity.androidim.FriendList
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:14:5-21:14
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:14:15-41
+intent-filter#android.intent.action.MAIN+android.intent.category.NORMAL
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:15:4-20:20
+action#android.intent.action.MAIN
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:16:13-54
+category#android.intent.category.NORMAL
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:17:5-19:16
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:18:6-51
+service#at.vcity.androidim.services.IMService
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:22:3-57
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:22:12-46
+activity#at.vcity.androidim.Login
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:23:3-29:14
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:23:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:24:4-28:20
+category#android.intent.category.LAUNCHER
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:26:5-27:16
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:26:15-62
+activity#at.vcity.androidim.Messaging
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:30:3-37:14
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:30:13-38
+activity#at.vcity.androidim.SignUp
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:40:2-43:12
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:40:12-34
+activity#at.vcity.androidim.AddFriend
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:44:1-47:12
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:44:11-36
+activity#at.vcity.androidim.UnApprovedFriendList
+ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:48:1-51:12
+	android:name
+		ADDED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml:48:11-47
+uses-sdk
+INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/AndroidManifest.xml

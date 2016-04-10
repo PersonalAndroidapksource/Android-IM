@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/redstar.png",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/drawable-hdpi/redstar.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stat_sample.png",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/drawable-hdpi/stat_sample.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/greenstar.png",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/drawable-hdpi/greenstar.png"
+    }
+]

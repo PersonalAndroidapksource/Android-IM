@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/messaging_screen.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/messaging_screen.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/add_new_friend.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/add_new_friend.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/login_screen.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/login_screen.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/friend_list_screen.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/friend_list_screen.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/sign_up_screen.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/sign_up_screen.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/notes_row.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/notes_row.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/list_screen.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/list_screen.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/local_service_controller.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/local_service_controller.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/eden/AndroidStudioProjects/AndroidIM-master/app/src/main/res/layout/main.xml"
+    }
+]

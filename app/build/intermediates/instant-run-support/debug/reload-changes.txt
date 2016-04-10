@@ -1,0 +1,4 @@
+CHANGED,/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/at/vcity/androidim/FriendList$override.class
+CHANGED,/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/at/vcity/androidim/services/IMService$2$override.class
+CHANGED,/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/at/vcity/androidim/services/IMService$override.class
+CHANGED,/home/eden/AndroidStudioProjects/AndroidIM-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
